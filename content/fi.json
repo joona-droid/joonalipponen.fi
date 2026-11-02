@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "lang": "fi",
+    "title": "Joona Lipponen – ehdolla SYLin puheenjohtajaksi 2027",
+    "description": "Joona Lipponen, AYY:n hallituksen puheenjohtaja, hakee SYLin puheenjohtajaksi vuodelle 2027. Visio: vaikuttava suunnannäyttäjä ja osallistava edunvalvoja."
+  },
+  "ui": {
+    "draftBadge": "Luonnos",
+    "imagePlaceholder": "Kuva tulossa",
+    "copy": "Kopioi",
+    "copied": "Kopioitu",
+    "readFull": "Lue koko suositus",
+    "photoBy": "Kuva",
+    "months": [
+      "tammikuu",
+      "helmikuu",
+      "maaliskuu",
+      "huhtikuu",
+      "toukokuu",
+      "kesäkuu",
+      "heinäkuu",
+      "elokuu",
+      "syyskuu",
+      "lokakuu",
+      "marraskuu",
+      "joulukuu"
+    ],
+    "email": "Sähköposti",
+    "phone": "Puhelin",
+    "skip": "Siirry sisältöön",
+    "navLabel": "Osiot",
+    "langLabel": "Kieli"
+  },
+  "hero": {
+    "eyebrow": "Ehdolla SYLin puheenjohtajaksi 2027",
+    "name": "Joona Lipponen",
+    "lead": "Vaikuttava suunnannäyttäjä ja osallistava edunvalvoja",
+    "facts": [
+      "AYY:n hallituksen puheenjohtaja 2026",
+      "27 v, teekkari Otaniemestä",
+      "Puoluepoliittisesti sitoutumaton",
+      "Kolumnisti, Länsiväylä",
+      "Kiinteistötalouden maisteriopiskelija"
+    ],
+    "sticker": "Joo Joonalle",
+    "image": {
+      "src": "images/kampanja-tuoli-kivet",
+      "cutout": "images/cutout-kampanja-tuoli",
+      "alt": "Joona istuu puisella tuolilla ja hymyilee",
+      "credit": "Anu Vanhanen"
+    },
+    "leadTag": "SYL 2027",
+    "cta": "Liittokokouksessa 13.–14.11. voit sanoa ”joo joonalle”."
+  },
+  "vision": {
+    "navLabel": "Visio",
+    "eyebrow": "Visioni SYLille 2027",
+    "heading": "Tavoitteet",
+    "intro": "SYL tekee paljon hyvää työtä, mutta kentällä se ei aina näy. Ensi vuonna ratkaistaan, päätyvätkö opiskelijoiden tavoitteet hallitusohjelmaan. Siksi haen puheenjohtajaksi.",
+    "goals": [
+      {
+        "title": "Opiskelijoiden eduskuntavaalitavoitteet saavutetaan yhdessä",
+        "text": "Ensi vuoden tavoite on selkeä: viedä opiskelijoiden eduskuntavaalitavoitteet hallitusohjelmaan. Se tehdään ratkaisukeskeisellä dialogilla päättäjien kanssa!"
+      },
+      {
+        "title": "Ylioppilaskuntien ääni SYLin toiminnan keskiöön",
+        "text": "Vahvistetaan ylioppilaskuntien mahdollisuuksia osallistua SYLin toiminnan suunnitteluun ja vaikuttamistyöhön. SYL ei saa joutua omaan kuplaansa."
+      },
+      {
+        "title": "Opiskelijat Suomen tulevaisuuden rakentajina",
+        "text": "Tuodaan opiskelijat rohkeammin ja monipuolisemmin osaksi yhteiskunnallista keskustelua näyttämällä, miksi opiskelijoihin investoiminen kannattaa."
+      }
+    ],
+    "pull": "Pohja on hyvä. Toteutusta voi terävöittää.",
+    "proof": {
+      "title": "Esimerkki: asuminen",
+      "text": "Opiskelija-asumisen rahoitus koskee jokaista ylioppilaskuntaa. Kun liike puhuu siitä yhdellä äänellä Rovaniemeltä, Jyväskylään ja Lappeenrantaan, se kuullaan eduskunnassa asti."
+    }
+  },
+  "promises": {
+    "navLabel": "Lupaukset",
+    "heading": "Lupaukset kentälle",
+    "intro": "Konkreettisia asioita, joita voi seurata.",
+    "items": [
+      "Kaksi kertaa vuodessa tunnin puhelu jokaisen ylioppilaskunnan puheenjohtajan kanssa.",
+      "Läpinäkyvyys: kenttä tietää jatkuvasti, mitä SYL tekee ja miksi."
+    ]
+  },
+  "band": {
+    "text": "Liike liikkeelle",
+    "image": {
+      "src": "images/aalto-party-2026-heli-sorjonen",
+      "alt": "Iso joukko haalaripukuisia opiskelijoita juhlii yhdessä nurmikolla",
+      "credit": "Heli Sorjonen",
+      "focus": "50% 45%"
+    }
+  },
+  "about": {
+    "navLabel": "Kuka olen",
+    "heading": "Kuka olen",
+    "paragraphs": [
+      "Olen Joona, 27, ja toimin tänä vuonna Aalto-yliopiston ylioppilaskunnan AYY:n hallituksen puheenjohtajana. Teen samalla maisteriopintoja kiinteistötaloudesta Aallon urban studies and planning -ohjelmassa. Olen puoluepoliittisesti sitoutumaton.",
+      "Löysin järjestömaailmaan Otaniemen kautta vuonna 2020: ensin tutorina, sitten killan fuksikapteenina ja Jäynäkilpailun ylituomarina.",
+      "Vuonna 2024 AYY:n asumisesta ja taloudesta vastaavana löysin intohimon yhteiskunnalliseen vaikuttamiseen, koska opiskelija-asuminen ratkaisee, kenellä on varaa opiskella.",
+      "AYY:ssä olen nähnyt, että vaikuttaminen onnistuu, kun kenttä tietää mitä tehdään ja pääsee mukaan ennen kuin päätökset on tehty. Sitä haluan viedä SYLiin."
+    ],
+    "image": {
+      "cutout": "images/cutout-haalarit-2022",
+      "src": "images/haalarit-2022-01",
+      "alt": "Joona teekkarilakissa ja haalareissa Otaniemessä 2022",
+      "credit": "Tuuli Inkinen"
+    }
+  },
+  "timeline": {
+    "heading": "Matka tähän",
+    "items": [
+      {
+        "year": "2020",
+        "title": "Opinnot Aallossa alkavat",
+        "text": "Otaniemi vie mukanaan, opinnot alkaa."
+      },
+      {
+        "year": "2021",
+        "title": "Tutor ja abivastaava",
+        "text": "Uusien opiskelijoiden tukena. Abivastaavana johdin ryhmää, jolla markkinoimme alaamme."
+      },
+      {
+        "year": "2022",
+        "title": "Killan fuksikapteeni",
+        "text": "Vastuu uusien opiskelijoiden vastaanottamisesta Aaltoon."
+      },
+      {
+        "year": "2023",
+        "title": "Jäynäkilpailun ylituomari",
+        "text": "Johdin vuoden vapaaehtoisista koostuvaa kaveriporukkaa, jonka tehtävä on ylläpitää jäynäkulttuuria ja järjestää kilpailu."
+      },
+      {
+        "year": "2024",
+        "title": "AYY:n hallitus",
+        "text": "Vastuulla asuminen ja talous."
+      },
+      {
+        "year": "2025",
+        "title": "AYY:n talousjohtokunta",
+        "text": "Neuvoa antava talouselin."
+      },
+      {
+        "year": "2026",
+        "title": "AYY:n hallituksen puheenjohtaja",
+        "text": "Ylioppilaskunnan johtaminen toimiston ja edustajiston välissä.",
+        "image": {
+          "src": "images/day-one-2026-puhe-mikko-raskinen",
+          "alt": "Joona puhuu AYY:n puheenjohtajana Aalto-yliopiston lukuvuoden avajaisissa",
+          "credit": "Mikko Raskinen",
+          "focus": "50% 40%"
+        }
+      },
+      {
+        "year": "2027",
+        "title": "Ehdolla SYLin puheenjohtajaksi",
+        "text": "Valinta liittokokouksessa 13.–14.11.2026."
+      }
+    ],
+    "note": "Lisäksi lukuisia muita toimihenkilötehtäviä Otaniemen opiskelijayhteisössä, esimerkiksi hallopedina korkeakouluni EDI-ryhmässä."
+  },
+  "results": {
+    "navLabel": "Tehtyä",
+    "heading": "Mitä olen saanut aikaan vaikuttamistyössä",
+    "items": [
+      {
+        "big": "Hallopedit",
+        "text": "Toin hallinnon opiskelijaedustajien palkkiot Aallon hallituksen pöydälle. Ne menivät läpi."
+      },
+      {
+        "big": "Espoo",
+        "text": "Kansainvälisten opiskelijoiden työllisyysseteli etenee kaupungilla selvitykseen."
+      },
+      {
+        "big": "Trinet",
+        "text": "AYY:n 40 vuotta vanhan opiskelijaverkon alasajon jälkikäsittely ja muutoshallinta. Vaikea muutos, joka vaati äänestyksen ja paljon keskustelua. Yhteisö oli jakautunut ja töitä yhdistämiseen oli tehtävä. Hallitukseni johdolla saimme ilmapiirin yhteen ennen seuraavan lukuvuoden aloitusta."
+      },
+      {
+        "big": "Kesätyökampanja kesälle 2027",
+        "text": "Rakennamme hallituksen kanssa yhdessä Aallon kanssa nuorten ja opiskelijoiden työllisyyskampanjaa."
+      }
+    ]
+  },
+  "attitude": {
+    "navLabel": "Asenne",
+    "heading": "Millä asenteella",
+    "intro": "Vapaaehtoiskentällä kukaan ei ole velvollinen tekemään mitään. Siksi johtaminen on minulle ennen kaikkea sitä, että ihmiset näkevät, miksi asia kannattaa tehdä.",
+    "items": [
+      {
+        "title": "Ilman keppiä",
+        "text": "Motivaatio syntyy siitä, että ihmiset ymmärtävät tavoitteen ja näkevät oman osuutensa siinä. Käskyillä ei vapaaehtoiskentällä pitkälle päästä."
+      },
+      {
+        "title": "Kaikki näkökulmat pöydälle",
+        "text": "Luon tilan, jossa vaikeistakin asioista voi puhua, ennen kuin päätetään. Erimielisyys kesken valmistelun on halvempaa kuin päätöksen jälkeen."
+      },
+      {
+        "title": "Toimiston ja edarin välissä",
+        "text": "AYY:n puheenjohtajana olen johtanut työtä ammattilaisten ja luottamushenkilöiden välissä. Molempien pitää vetää samaan suuntaan."
+      }
+    ],
+    "image": {
+      "src": "images/aalto-party-2026-pinja-valja",
+      "alt": "Joona puhuu mikrofoniin ulkotapahtumassa",
+      "credit": "Pinja Valja",
+      "focus": "62% 40%"
+    }
+  },
+  "references": {
+    "navLabel": "Suosittelijat",
+    "heading": "Suosittelijat"
+  },
+  "quotes": {
+    "navLabel": "Sanottua",
+    "heading": "Joonasta sanottua"
+  },
+  "positions": {
+    "navLabel": "Kannat",
+    "heading": "Kannat",
+    "intro": "Vastauksia kysymyksiin, joita minulta on kysytty. Lisään tänne lisää kampanjan edetessä.",
+    "items": [
+      {
+        "q": "Miten opiskelija-asuntopula ratkaistaan?",
+        "a": "Rakentamalla. Opiskelija-asuntojen rakentaminen on hiipunut, koska valtion investointiavustukset yleishyödylliselle opiskelija-asumiselle on lopetettu. Ne pitää palauttaa. Asuminen on opiskelukyvyn perusta, ja sen hinta ratkaisee, kenellä on varaa opiskella."
+      },
+      {
+        "q": "Pitäisikö yliopistokoulutuksen olla maksullista?",
+        "a": "Ei missään muodossa. Lukukausimaksut luovat eriarvoisuutta. Ne myös estävät jatkuvaa oppimista, kun joku hakee toiseen tutkintoon, ja vievät nuorilta mahdollisuuden kokeilla ja epäonnistua, jos ala osoittautuu vääräksi."
+      },
+      {
+        "q": "Pitäisikö avoimen yliopiston saada myöntää tutkintoja?",
+        "a": "Ei. Avoimen väylä on suunniteltu nuorelle, jolla ei ole vielä opiskelupaikkaa, ja sellaisena se pitää pitää. Aikuisille ja jatkuvaan oppimiseen on kehitettävä oma uusi väylä."
+      },
+      {
+        "q": "Miksi opiskelijoihin kannattaa investoida?",
+        "a": "Opiskelijat eivät ole pelkkä kuluerä. Meillä on ratkaisuja Suomen isoihin kysymyksiin, ja opiskelijoiden asiat pitää kytkeä näihin isompiin teemoihin. Koulutus tuo kasvua, kansainväliset valmistuneet helpottavat työvoimapulaa ja tämän päivän opiskelijat rakentavat huomisen Suomen."
+      },
+      {
+        "q": "Miten kansainväliset opiskelijat saadaan jäämään Suomeen?",
+        "a": "Työllistymisen kautta. AYY:n puheenjohtajana olen ajanut Espoon kaupungille kansainvälisten opiskelijoiden työllisyysseteliä, ja se etenee nyt selvitykseen. Sama ajatus on SYLin eduskuntavaaliohjelman työnantajasetelissä."
+      }
+    ]
+  },
+  "media": {
+    "navLabel": "Media",
+    "heading": "Mediassa"
+  },
+  "gallery": {
+    "heading": "Kuvia matkan varrelta",
+    "images": [
+      {
+        "src": "images/vappu-2026-onni-nurkka-2",
+        "alt": "Joona puhuu mikrofoniin vappuna",
+        "credit": "Onni Nurkka",
+        "focus": "60% 40%"
+      },
+      {
+        "src": "images/day-one-2026-heli-sorjonen",
+        "alt": "Joona teekkarilakissa Day One -tapahtumassa",
+        "credit": "Heli Sorjonen",
+        "focus": "50% 40%"
+      },
+      {
+        "src": "images/vappu-2026-onni-nurkka-1",
+        "alt": "Joona lippalakissa ja haalareissa vilkuttaa kameralle",
+        "credit": "Onni Nurkka",
+        "focus": "58% 40%"
+      },
+      {
+        "src": "images/kevatpaivantasaus-121-atte-makinen",
+        "alt": "Joona pitää puhetta frakissa",
+        "credit": "Atte Mäkinen",
+        "focus": "40% 35%"
+      },
+      {
+        "src": "images/day-one-2026-ylavitonen-mikko-raskinen",
+        "alt": "Joona lyö ylävitoset lavalla lukuvuoden avajaisissa",
+        "credit": "Mikko Raskinen",
+        "focus": "55% 40%"
+      },
+      {
+        "src": "images/jaynafinaali-2025-ek",
+        "alt": "Joona laulaa lavalla Jäynäfinaalissa 2025",
+        "credit": "Elsa Kattainen",
+        "focus": "35% 40%"
+      }
+    ]
+  },
+  "material": {
+    "heading": "Ylioppilaskunnille",
+    "intro": "Valmiit esittelytekstit hakijaesittelyihin ja tiedotteisiin. Saa käyttää vapaasti.",
+    "bioShortLabel": "Lyhyt esittely",
+    "bioShort": "Joona Lipponen (27) on Aalto-yliopiston ylioppilaskunnan AYY:n hallituksen puheenjohtaja ja ehdolla SYLin puheenjohtajaksi vuodelle 2027.",
+    "bioLongLabel": "Pidempi esittely",
+    "bioLong": "Joona Lipponen (27) on Aalto-yliopiston ylioppilaskunnan AYY:n hallituksen puheenjohtaja. Hän opiskelee kiinteistötaloutta Aalto-yliopiston urban studies and planning -maisteriohjelmassa. Vuonna 2024 Lipponen vastasi AYY:n hallituksessa asumisesta ja taloudesta. Hän hakee SYLin puheenjohtajaksi sitoutumattomana.",
+    "photoNote": "Painokelpoisen kuvan saa pyytämällä."
+  },
+  "contact": {
+    "navLabel": "Yhteys",
+    "heading": "Ota yhteyttä",
+    "text": "Soita, laita viestiä tai tule juttelemaan kun tavataan.",
+    "email": "joona.lipponen@ayy.fi",
+    "phone": "+358 50 353 9325",
+    "links": [
+      {
+        "label": "Instagram @joonajjlipponen",
+        "url": "https://www.instagram.com/joonajjlipponen/"
+      },
+      {
+        "label": "Telegram @pataljoona",
+        "url": "https://t.me/pataljoona"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/joona-l-243552142/"
+      }
+    ],
+    "image": {
+      "src": "images/kampanja-niitty",
+      "alt": "Joona istuu tuolilla niityllä",
+      "credit": "Anu Vanhanen",
+      "focus": "60% 30%"
+    }
+  },
+  "footer": "Liike liikkeelle. Ehdolla SYLin puheenjohtajaksi 2027. Joo joonalle."
+}

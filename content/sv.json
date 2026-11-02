@@ -1,0 +1,343 @@
+{
+  "meta": {
+    "lang": "sv",
+    "title": "Joona Lipponen – kandidat till ordförande för FSF 2027",
+    "description": "Joona Lipponen, styrelseordförande för AUS, söker ordförandeposten i FSF för år 2027. Visionen: en drivande kraft och en inkluderande röst."
+  },
+  "ui": {
+    "draftBadge": "Utkast",
+    "imagePlaceholder": "Bild kommer",
+    "copy": "Kopiera",
+    "copied": "Kopierat",
+    "readFull": "Läs hela rekommendationen",
+    "photoBy": "Foto",
+    "months": [
+      "januari",
+      "februari",
+      "mars",
+      "april",
+      "maj",
+      "juni",
+      "juli",
+      "augusti",
+      "september",
+      "oktober",
+      "november",
+      "december"
+    ],
+    "email": "E-post",
+    "phone": "Telefon",
+    "skip": "Hoppa till innehållet",
+    "navLabel": "Avsnitt",
+    "langLabel": "Språk",
+    "mediaTypes": {
+      "Kansijuttu": "Omslagsartikel",
+      "Mielipide": "Insändare",
+      "Kolumni": "Kolumn",
+      "Tulevaisuusraati": "Framtidspanel",
+      "Artikkeli": "Artikel",
+      "TV": "TV",
+      "Henkilöjuttu": "Personporträtt",
+      "Video": "Video",
+      "Uutinen": "Nyhet"
+    }
+  },
+  "hero": {
+    "eyebrow": "Kandidat till ordförande för FSF 2027",
+    "name": "Joona Lipponen",
+    "lead": "En drivande kraft och en inkluderande röst",
+    "facts": [
+      "Styrelseordförande för AUS 2026",
+      "27 år, teknolog från Otnäs",
+      "Partipolitiskt obunden",
+      "Kolumnist, Länsiväylä",
+      "Masterstuderande i fastighetsekonomi"
+    ],
+    "sticker": "Jå till Jååna",
+    "image": {
+      "src": "images/kampanja-tuoli-kivet",
+      "cutout": "images/cutout-kampanja-tuoli",
+      "alt": "Joona sitter på en trästol och ler",
+      "credit": "Anu Vanhanen"
+    },
+    "leadTag": "FSF 2027",
+    "cta": "På förbundsmötet 13–14.11 kan du säga ”jå till jååna”."
+  },
+  "vision": {
+    "navLabel": "Vision",
+    "eyebrow": "Min vision för FSF 2027",
+    "heading": "Mål",
+    "intro": "FSF gör mycket bra arbete, men det syns inte alltid ute på fältet. Nästa år avgörs det om studenternas mål hamnar i regeringsprogrammet. Därför söker jag ordförandeposten.",
+    "goals": [
+      {
+        "title": "Studenternas riksdagsvalsmål nås tillsammans",
+        "text": "Nästa års mål är tydligt: att få in studenternas riksdagsvalsmål i regeringsprogrammet. Det sker genom lösningsorienterad dialog med beslutsfattarna!"
+      },
+      {
+        "title": "Studentkårernas röst i centrum för FSF:s verksamhet",
+        "text": "Studentkårernas möjligheter att delta i planeringen av FSF:s verksamhet och i påverkansarbetet stärks. FSF får inte hamna i sin egen bubbla."
+      },
+      {
+        "title": "Studenterna som byggare av Finlands framtid",
+        "text": "Vi för in studenterna i samhällsdebatten djärvare och mer mångsidigt genom att visa varför det lönar sig att investera i studenter."
+      }
+    ],
+    "pull": "Grunden är bra. Genomförandet kan skärpas.",
+    "proof": {
+      "title": "Exempel: boende",
+      "text": "Finansieringen av studentboende berör varje studentkår. När studentrörelsen talar om det med en röst från Rovaniemi till Jyväskylä och Villmanstrand, hörs det ända till riksdagen."
+    }
+  },
+  "promises": {
+    "navLabel": "Löften",
+    "heading": "Löften till fältet",
+    "intro": "Konkreta saker som går att följa upp.",
+    "items": [
+      "Två gånger per år ett timslångt samtal med ordföranden för varje studentkår.",
+      "Transparens: fältet vet hela tiden vad FSF gör och varför."
+    ]
+  },
+  "band": {
+    "text": "Sätt fart på rörelsen",
+    "image": {
+      "src": "images/aalto-party-2026-heli-sorjonen",
+      "alt": "En stor grupp studenter i overaller firar tillsammans på en gräsmatta",
+      "credit": "Heli Sorjonen",
+      "focus": "50% 45%"
+    }
+  },
+  "about": {
+    "navLabel": "Vem jag är",
+    "heading": "Vem jag är",
+    "paragraphs": [
+      "Jag heter Joona, 27, och i år är jag styrelseordförande för Aalto-universitetets studentkår AUS. Samtidigt studerar jag fastighetsekonomi på magisternivå i Aaltos program Urban Studies and Planning. Jag är partipolitiskt obunden.",
+      "Jag hittade till föreningslivet via Otnäs år 2020: först som tutor, sedan som gillets fuxkapten och som överdomare i Jäynätävlingen.",
+      "År 2024, som ansvarig för boende och ekonomi i AUS styrelse, hittade jag min passion för samhällspåverkan, eftersom studentboendet avgör vem som har råd att studera.",
+      "På AUS har jag sett att påverkansarbetet lyckas när fältet vet vad som görs och får vara med innan besluten fattas. Det vill jag föra till FSF."
+    ],
+    "image": {
+      "cutout": "images/cutout-haalarit-2022",
+      "src": "images/haalarit-2022-01",
+      "alt": "Joona i teknologmössa och overall i Otnäs 2022",
+      "credit": "Tuuli Inkinen"
+    }
+  },
+  "timeline": {
+    "heading": "Vägen hit",
+    "items": [
+      {
+        "year": "2020",
+        "title": "Studierna vid Aalto börjar",
+        "text": "Otnäs tar mig med, studierna börjar."
+      },
+      {
+        "year": "2021",
+        "title": "Tutor och abiansvarig",
+        "text": "Stöd för nya studerande. Som abiansvarig ledde jag en grupp som marknadsförde vårt område."
+      },
+      {
+        "year": "2022",
+        "title": "Gillets fuxkapten",
+        "text": "Ansvar för mottagandet av nya studerande vid Aalto."
+      },
+      {
+        "year": "2023",
+        "title": "Överdomare i Jäynätävlingen",
+        "text": "Jag ledde ett gäng frivilliga vänner under ett år. Uppgiften är att upprätthålla jäynäkulturen och ordna tävlingen."
+      },
+      {
+        "year": "2024",
+        "title": "AUS styrelse",
+        "text": "Ansvar för boende och ekonomi."
+      },
+      {
+        "year": "2025",
+        "title": "AUS ekonomiutskott",
+        "text": "Ett rådgivande ekonomiorgan."
+      },
+      {
+        "year": "2026",
+        "title": "Styrelseordförande för AUS",
+        "text": "Att leda studentkåren mellan kansliet och representantskapet.",
+        "image": {
+          "src": "images/day-one-2026-puhe-mikko-raskinen",
+          "alt": "Joona talar som ordförande för AUS vid Aalto-universitetets läsårsöppning",
+          "credit": "Mikko Raskinen",
+          "focus": "50% 40%"
+        }
+      },
+      {
+        "year": "2027",
+        "title": "Kandidat till ordförande för FSF",
+        "text": "Valet sker på förbundsmötet 13–14.11.2026."
+      }
+    ],
+    "note": "Därtill många andra förtroendeuppdrag i studentgemenskapen i Otnäs, till exempel som studentrepresentant i min högskolas EDI-grupp."
+  },
+  "results": {
+    "navLabel": "Gjort",
+    "heading": "Vad jag har åstadkommit i påverkansarbetet",
+    "items": [
+      {
+        "big": "Studentrepresentanter",
+        "text": "Jag lyfte arvoden för studentrepresentanterna i förvaltningen till Aaltos styrelse. De godkändes."
+      },
+      {
+        "big": "Esbo",
+        "text": "Sysselsättningssedeln för internationella studerande går vidare till utredning i staden."
+      },
+      {
+        "big": "Trinet",
+        "text": "Efterarbetet och förändringsledningen när AUS 40 år gamla studentnätverk avvecklades. En svår förändring som krävde en omröstning och mycket diskussion. Gemenskapen var splittrad och arbete behövdes för att föra den samman. Under min styrelses ledning fick vi stämningen enad före början av följande läsår."
+      },
+      {
+        "big": "Sommarjobbskampanj 2027",
+        "text": "Tillsammans med styrelsen och Aalto bygger vi en sysselsättningskampanj för unga och studerande."
+      }
+    ]
+  },
+  "attitude": {
+    "navLabel": "Inställning",
+    "heading": "Med vilken inställning",
+    "intro": "I frivilligarbetet är ingen skyldig att göra något. Därför handlar ledarskap för mig framför allt om att människor ser varför något är värt att göra.",
+    "items": [
+      {
+        "title": "Utan piska",
+        "text": "Motivation uppstår när människor förstår målet och ser sin egen del i det. Med order kommer man inte långt i frivilligarbetet."
+      },
+      {
+        "title": "Alla perspektiv på bordet",
+        "text": "Jag skapar ett utrymme där man kan tala också om svåra saker innan besluten fattas. Oenighet under beredningen kostar mindre än efter beslutet."
+      },
+      {
+        "title": "Mellan kansliet och representantskapet",
+        "text": "Som ordförande för AUS har jag lett arbetet mellan de anställda och förtroendevalda. Båda måste dra åt samma håll."
+      }
+    ],
+    "image": {
+      "src": "images/aalto-party-2026-pinja-valja",
+      "alt": "Joona talar i mikrofon på ett utomhusevenemang",
+      "credit": "Pinja Valja",
+      "focus": "62% 40%"
+    }
+  },
+  "references": {
+    "navLabel": "Rekommendationer",
+    "heading": "Rekommendationer",
+    "note": "Rekommendationerna är översatta från finska."
+  },
+  "quotes": {
+    "navLabel": "Sagt",
+    "heading": "Sagt om Joona"
+  },
+  "positions": {
+    "navLabel": "Ståndpunkter",
+    "heading": "Ståndpunkter",
+    "intro": "Svar på frågor som jag har fått. Jag fyller på under kampanjens gång.",
+    "items": [
+      {
+        "q": "Hur löser man bristen på studentbostäder?",
+        "a": "Genom att bygga. Byggandet av studentbostäder har avtagit, eftersom statens investeringsbidrag för allmännyttigt studentboende har avskaffats. De måste återinföras. Boendet är grunden för studieförmågan, och priset avgör vem som har råd att studera."
+      },
+      {
+        "q": "Borde universitetsutbildning vara avgiftsbelagd?",
+        "a": "Inte i någon form. Terminsavgifter skapar ojämlikhet. De hindrar också livslångt lärande när någon söker till en andra examen, och tar ifrån unga möjligheten att pröva och misslyckas om området visar sig vara fel."
+      },
+      {
+        "q": "Borde den öppna högskolan få utfärda examina?",
+        "a": "Nej. Den öppna vägen är utformad för unga som ännu inte har en studieplats, och så ska den förbli. För vuxna och livslångt lärande behöver en egen, ny väg utvecklas."
+      },
+      {
+        "q": "Varför lönar det sig att investera i studerande?",
+        "a": "Studerande är inte bara en utgiftspost. Vi har lösningar på Finlands stora frågor, och studerandes frågor måste kopplas till dessa större teman. Utbildning ger tillväxt, internationella utexaminerade lindrar arbetskraftsbristen och dagens studerande bygger morgondagens Finland."
+      },
+      {
+        "q": "Hur får man internationella studerande att stanna i Finland?",
+        "a": "Genom sysselsättning. Som ordförande för AUS har jag drivit en sysselsättningssedel för internationella studerande hos Esbo stad, och den går nu vidare till utredning. Samma tanke finns i arbetsgivarsedeln i FSF:s riksdagsvalsprogram."
+      }
+    ]
+  },
+  "media": {
+    "navLabel": "Media",
+    "heading": "I medierna",
+    "intro": "Artiklarna är på finska."
+  },
+  "gallery": {
+    "heading": "Bilder längs vägen",
+    "images": [
+      {
+        "src": "images/vappu-2026-onni-nurkka-2",
+        "alt": "Joona talar i mikrofon på vappen",
+        "credit": "Onni Nurkka",
+        "focus": "60% 40%"
+      },
+      {
+        "src": "images/day-one-2026-heli-sorjonen",
+        "alt": "Joona i teknologmössa på Day One",
+        "credit": "Heli Sorjonen",
+        "focus": "50% 40%"
+      },
+      {
+        "src": "images/vappu-2026-onni-nurkka-1",
+        "alt": "Joona i keps och overall vinkar mot kameran",
+        "credit": "Onni Nurkka",
+        "focus": "58% 40%"
+      },
+      {
+        "src": "images/kevatpaivantasaus-121-atte-makinen",
+        "alt": "Joona håller tal i frack",
+        "credit": "Atte Mäkinen",
+        "focus": "40% 35%"
+      },
+      {
+        "src": "images/day-one-2026-ylavitonen-mikko-raskinen",
+        "alt": "Joona gör high five på scenen vid läsårsöppningen",
+        "credit": "Mikko Raskinen",
+        "focus": "55% 40%"
+      },
+      {
+        "src": "images/jaynafinaali-2025-ek",
+        "alt": "Joona sjunger på scenen i Jäynäfinalen 2025",
+        "credit": "Elsa Kattainen",
+        "focus": "35% 40%"
+      }
+    ]
+  },
+  "material": {
+    "heading": "För studentkårer",
+    "intro": "Färdiga presentationstexter för kandidatpresentationer och pressmeddelanden. Får användas fritt.",
+    "bioShortLabel": "Kort presentation",
+    "bioShort": "Joona Lipponen (27) är styrelseordförande för Aalto-universitetets studentkår AUS och kandidat till ordförande för FSF år 2027.",
+    "bioLongLabel": "Längre presentation",
+    "bioLong": "Joona Lipponen (27) är styrelseordförande för Aalto-universitetets studentkår AUS. Han studerar fastighetsekonomi i magisterprogrammet Urban Studies and Planning vid Aalto-universitetet. År 2024 ansvarade Lipponen för boende och ekonomi i AUS styrelse. Han söker ordförandeposten i FSF som partipolitiskt obunden.",
+    "photoNote": "En tryckfärdig bild fås på begäran."
+  },
+  "contact": {
+    "navLabel": "Kontakt",
+    "heading": "Ta kontakt",
+    "text": "Ring, skicka ett meddelande eller kom och prata när vi ses.",
+    "email": "joona.lipponen@ayy.fi",
+    "phone": "+358 50 353 9325",
+    "links": [
+      {
+        "label": "Instagram @joonajjlipponen",
+        "url": "https://www.instagram.com/joonajjlipponen/"
+      },
+      {
+        "label": "Telegram @pataljoona",
+        "url": "https://t.me/pataljoona"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/joona-l-243552142/"
+      }
+    ],
+    "image": {
+      "src": "images/kampanja-niitty",
+      "alt": "Joona sitter på en stol på en äng",
+      "credit": "Anu Vanhanen",
+      "focus": "60% 30%"
+    }
+  },
+  "footer": "Sätt fart på rörelsen. Kandidat till ordförande för FSF 2027. Jå till Jååna."
+}

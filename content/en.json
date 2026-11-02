@@ -1,0 +1,357 @@
+{
+  "meta": {
+    "lang": "en",
+    "title": "Joona Lipponen – running for Chair of SYL 2027",
+    "description": "Joona Lipponen, Chair of the AYY Board, is running for Chair of SYL for 2027. The vision: impactful direction and collaborative advocacy."
+  },
+  "ui": {
+    "draftBadge": "Draft",
+    "imagePlaceholder": "Photo coming",
+    "copy": "Copy",
+    "copied": "Copied",
+    "readFull": "Read the full recommendation",
+    "photoBy": "Photo",
+    "months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "monthsShort": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "email": "Email",
+    "phone": "Phone",
+    "skip": "Skip to content",
+    "navLabel": "Sections",
+    "langLabel": "Language",
+    "mediaTypes": {
+      "Kansijuttu": "Cover story",
+      "Mielipide": "Opinion",
+      "Kolumni": "Column",
+      "Tulevaisuusraati": "Future panel",
+      "Artikkeli": "Article",
+      "TV": "TV",
+      "Henkilöjuttu": "Profile",
+      "Video": "Video",
+      "Uutinen": "News"
+    }
+  },
+  "hero": {
+    "eyebrow": "Running for Chair of SYL 2027",
+    "name": "Joona Lipponen",
+    "lead": "Impactful direction and collaborative advocacy",
+    "facts": [
+      "Chair of the AYY Board 2026",
+      "27, teekkari from Otaniemi",
+      "Not affiliated with any party",
+      "Columnist, Länsiväylä",
+      "Master's student in real estate economics"
+    ],
+    "sticker": "Yo to Yoona",
+    "image": {
+      "src": "images/kampanja-tuoli-kivet",
+      "cutout": "images/cutout-kampanja-tuoli",
+      "alt": "Joona sits on a wooden chair and smiles",
+      "credit": "Anu Vanhanen"
+    },
+    "leadTag": "SYL 2027",
+    "cta": "At the General Assembly on 13–14 November, you can say “yo to yoona”."
+  },
+  "vision": {
+    "navLabel": "Vision",
+    "eyebrow": "My vision for SYL 2027",
+    "heading": "Goals",
+    "intro": "SYL does a lot of good work, but it isn't always visible in the field. Next year will decide whether students' goals make it into the Government Programme. That's why I'm running for Chair.",
+    "goals": [
+      {
+        "title": "Achieving students' parliamentary election goals together",
+        "text": "Next year's goal is clear: to get students' parliamentary election goals into the Government Programme. We'll do it through solution-oriented dialogue with decision-makers!"
+      },
+      {
+        "title": "Putting student unions' voices at the heart of SYL's work",
+        "text": "We will strengthen student unions' opportunities to take part in planning SYL's activities and advocacy work. SYL must not end up in its own bubble."
+      },
+      {
+        "title": "Students as builders of Finland's future",
+        "text": "We will bring students into public debate more boldly and in more diverse ways by showing why investing in students pays off."
+      }
+    ],
+    "pull": "The foundation is good. The execution can be sharper.",
+    "proof": {
+      "title": "Example: housing",
+      "text": "Funding for student housing affects every student union. When the student movement speaks about it with one voice, from Rovaniemi to Jyväskylä and Lappeenranta, it is heard all the way to Parliament."
+    }
+  },
+  "promises": {
+    "navLabel": "Promises",
+    "heading": "Promises to the field",
+    "intro": "Concrete things you can follow up on.",
+    "items": [
+      "A one-hour call with the chair of every student union, twice a year.",
+      "Transparency: the field always knows what SYL is doing and why."
+    ]
+  },
+  "band": {
+    "text": "Set the student movement in motion",
+    "image": {
+      "src": "images/aalto-party-2026-heli-sorjonen",
+      "alt": "A large group of students in overalls celebrating together on a lawn",
+      "credit": "Heli Sorjonen",
+      "focus": "50% 45%"
+    }
+  },
+  "about": {
+    "navLabel": "About me",
+    "heading": "About me",
+    "paragraphs": [
+      "I'm Joona, 27, and this year I'm Chair of the Board of the Aalto University Student Union AYY. Alongside that, I'm doing my master's in real estate economics in Aalto's Urban Studies and Planning programme. I'm not affiliated with any political party.",
+      "I found my way into student organisations through Otaniemi in 2020: first as a tutor, then as my guild's fuksicaptain and as head judge of the Jäynä competition.",
+      "In 2024, as the AYY Board member responsible for housing and finance, I found my passion for societal advocacy, because student housing determines who can afford to study.",
+      "At AYY I've seen that advocacy works when the field knows what's being done and gets to take part before decisions are made. That's what I want to bring to SYL."
+    ],
+    "image": {
+      "cutout": "images/cutout-haalarit-2022",
+      "src": "images/haalarit-2022-01",
+      "alt": "Joona in a teekkari cap and overalls in Otaniemi in 2022",
+      "credit": "Tuuli Inkinen"
+    }
+  },
+  "timeline": {
+    "heading": "The road here",
+    "items": [
+      {
+        "year": "2020",
+        "title": "Starting at Aalto",
+        "text": "Otaniemi sweeps me along, studies begin."
+      },
+      {
+        "year": "2021",
+        "title": "Tutor and outreach lead",
+        "text": "Supporting new students. As outreach lead, I led a group that promoted our field to upper secondary students."
+      },
+      {
+        "year": "2022",
+        "title": "Guild fuksicaptain",
+        "text": "Responsible for welcoming new students to Aalto."
+      },
+      {
+        "year": "2023",
+        "title": "Head judge of the Jäynä competition",
+        "text": "For a year, I led a group of volunteer friends whose task is to keep the jäynä prank culture alive and organise the competition."
+      },
+      {
+        "year": "2024",
+        "title": "AYY Board",
+        "text": "Responsible for housing and finance."
+      },
+      {
+        "year": "2025",
+        "title": "AYY finance board",
+        "text": "An advisory financial body."
+      },
+      {
+        "year": "2026",
+        "title": "Chair of the AYY Board",
+        "text": "Leading the student union between the office and the Representative Council.",
+        "image": {
+          "src": "images/day-one-2026-puhe-mikko-raskinen",
+          "alt": "Joona speaking as Chair of AYY at Aalto University's academic year opening",
+          "credit": "Mikko Raskinen",
+          "focus": "50% 40%"
+        }
+      },
+      {
+        "year": "2027",
+        "title": "Running for Chair of SYL",
+        "text": "The election takes place at the General Assembly on 13–14 November 2026."
+      }
+    ],
+    "note": "Plus many other volunteer roles in the Otaniemi student community, such as student representative in my school's EDI group."
+  },
+  "results": {
+    "navLabel": "Achievements",
+    "heading": "What I've achieved in advocacy",
+    "items": [
+      {
+        "big": "Student reps",
+        "text": "I brought fees for student representatives in university administration to the Aalto Board. They were approved."
+      },
+      {
+        "big": "Espoo",
+        "text": "The employment voucher for international students is moving forward to a study by the city."
+      },
+      {
+        "big": "Trinet",
+        "text": "Handling the aftermath and change management of shutting down AYY's 40-year-old student network. A difficult change that required a vote and a lot of discussion. The community was divided and work had to be done to bring it together. Under my Board's leadership, we brought the atmosphere together before the start of the next academic year."
+      },
+      {
+        "big": "Summer job campaign 2027",
+        "text": "Together with my Board and Aalto, we're building an employment campaign for young people and students."
+      }
+    ]
+  },
+  "attitude": {
+    "navLabel": "Attitude",
+    "heading": "With what attitude",
+    "intro": "In volunteer work, no one is obliged to do anything. That's why, for me, leadership is above all about helping people see why something is worth doing.",
+    "items": [
+      {
+        "title": "Without the stick",
+        "text": "Motivation comes from people understanding the goal and seeing their own part in it. Orders won't get you far in volunteer work."
+      },
+      {
+        "title": "All perspectives on the table",
+        "text": "I create a space where even difficult things can be discussed before decisions are made. Disagreement during preparation costs less than after the decision."
+      },
+      {
+        "title": "Between the office and the Council",
+        "text": "As Chair of AYY, I've led work between the professional staff and elected officials. Both need to pull in the same direction."
+      }
+    ],
+    "image": {
+      "src": "images/aalto-party-2026-pinja-valja",
+      "alt": "Joona speaking into a microphone at an outdoor event",
+      "credit": "Pinja Valja",
+      "focus": "62% 40%"
+    }
+  },
+  "references": {
+    "navLabel": "Recommendations",
+    "heading": "Recommendations",
+    "note": "The recommendations have been translated from Finnish."
+  },
+  "quotes": {
+    "navLabel": "Said",
+    "heading": "Said about Joona"
+  },
+  "positions": {
+    "navLabel": "Positions",
+    "heading": "Positions",
+    "intro": "Answers to questions I've been asked. I'll add more as the campaign goes on.",
+    "items": [
+      {
+        "q": "How do we solve the student housing shortage?",
+        "a": "By building. Construction of student housing has slowed down because state investment grants for non-profit student housing have been abolished. They must be restored. Housing is the foundation for being able to study, and its price determines who can afford to study."
+      },
+      {
+        "q": "Should university education come with tuition fees?",
+        "a": "Not in any form. Tuition fees create inequality. They also hinder lifelong learning when someone applies for a second degree, and take away young people's chance to try and fail if a field turns out to be the wrong one."
+      },
+      {
+        "q": "Should the open university be allowed to award degrees?",
+        "a": "No. The open university pathway was designed for young people who don't yet have a study place, and it should stay that way. A separate new pathway must be developed for adults and lifelong learning."
+      },
+      {
+        "q": "Why is investing in students worth it?",
+        "a": "Students are not just an expense. We have solutions to Finland's big questions, and students' issues must be linked to these bigger themes. Education brings growth, international graduates ease the labour shortage, and today's students are building tomorrow's Finland."
+      },
+      {
+        "q": "How do we get international students to stay in Finland?",
+        "a": "Through employment. As Chair of AYY, I've pushed the City of Espoo for an employment voucher for international students, and it is now moving forward to a study. The same idea is behind the employer voucher in SYL's parliamentary election programme."
+      }
+    ]
+  },
+  "media": {
+    "navLabel": "Media",
+    "heading": "In the media",
+    "intro": "The articles are in Finnish."
+  },
+  "gallery": {
+    "heading": "Photos along the way",
+    "images": [
+      {
+        "src": "images/vappu-2026-onni-nurkka-2",
+        "alt": "Joona speaking into a microphone on Vappu",
+        "credit": "Onni Nurkka",
+        "focus": "60% 40%"
+      },
+      {
+        "src": "images/day-one-2026-heli-sorjonen",
+        "alt": "Joona in a teekkari cap at Day One",
+        "credit": "Heli Sorjonen",
+        "focus": "50% 40%"
+      },
+      {
+        "src": "images/vappu-2026-onni-nurkka-1",
+        "alt": "Joona in a cap and overalls waving at the camera",
+        "credit": "Onni Nurkka",
+        "focus": "58% 40%"
+      },
+      {
+        "src": "images/kevatpaivantasaus-121-atte-makinen",
+        "alt": "Joona giving a speech in white tie",
+        "credit": "Atte Mäkinen",
+        "focus": "40% 35%"
+      },
+      {
+        "src": "images/day-one-2026-ylavitonen-mikko-raskinen",
+        "alt": "Joona high-fiving on stage at the academic year opening",
+        "credit": "Mikko Raskinen",
+        "focus": "55% 40%"
+      },
+      {
+        "src": "images/jaynafinaali-2025-ek",
+        "alt": "Joona singing on stage at the Jäynä final 2025",
+        "credit": "Elsa Kattainen",
+        "focus": "35% 40%"
+      }
+    ]
+  },
+  "material": {
+    "heading": "For student unions",
+    "intro": "Ready-made introductions for candidate presentations and press releases. Free to use.",
+    "bioShortLabel": "Short introduction",
+    "bioShort": "Joona Lipponen (27) is Chair of the Board of the Aalto University Student Union AYY and a candidate for Chair of SYL for 2027.",
+    "bioLongLabel": "Longer introduction",
+    "bioLong": "Joona Lipponen (27) is Chair of the Board of the Aalto University Student Union AYY. He studies real estate economics in Aalto University's Urban Studies and Planning master's programme. In 2024, Lipponen was responsible for housing and finance on the AYY Board. He is running for Chair of SYL as a candidate not affiliated with any political party.",
+    "photoNote": "A print-quality photo is available on request."
+  },
+  "contact": {
+    "navLabel": "Contact",
+    "heading": "Get in touch",
+    "text": "Call, send a message or come and chat when we meet.",
+    "email": "joona.lipponen@ayy.fi",
+    "phone": "+358 50 353 9325",
+    "links": [
+      {
+        "label": "Instagram @joonajjlipponen",
+        "url": "https://www.instagram.com/joonajjlipponen/"
+      },
+      {
+        "label": "Telegram @pataljoona",
+        "url": "https://t.me/pataljoona"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/joona-l-243552142/"
+      }
+    ],
+    "image": {
+      "src": "images/kampanja-niitty",
+      "alt": "Joona sits on a chair in a meadow",
+      "credit": "Anu Vanhanen",
+      "focus": "60% 30%"
+    }
+  },
+  "footer": "Set the student movement in motion. Running for Chair of SYL 2027. Yo to Yoona."
+}

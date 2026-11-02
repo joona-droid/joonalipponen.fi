@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2026-09",
+    "outlet": "Aalto Magazine",
+    "type": "Kansijuttu",
+    "lang": "fi",
+    "title": "Kasvun paikka – Aalto Magazine 38",
+    "url": "https://www.aalto.fi/en/aalto-university/aalto-university-magazine",
+    "image": "images/media/aalto-magazine-38.webp",
+    "focus": "50% 35%"
+  },
+  {
+    "date": "2026-08-13",
+    "outlet": "Helsingin Sanomat",
+    "type": "Mielipide",
+    "lang": "fi",
+    "title": "Opiskelija-asuntopula ratkaistaan rakentamalla",
+    "url": "https://www.hs.fi/mielipide/art-2000012199961.html",
+    "image": "images/media/hs-mielipide-2026.webp",
+    "focus": "50% 0%"
+  },
+  {
+    "date": "2026-07-14",
+    "outlet": "Länsiväylä",
+    "type": "Kolumni",
+    "lang": "fi",
+    "title": "Kesä on opiskelijalle taloudellisen selviytymisen projekti",
+    "url": "https://www.lansivayla.fi/paikalliset/9614719"
+  },
+  {
+    "date": "2026",
+    "outlet": "Helsingin Sanomat",
+    "type": "Tulevaisuusraati",
+    "lang": "fi",
+    "title": "HS:n uusi Tulevaisuusraati vastaa kipeisiin, sukupolvia jakaviin kysymyksiin",
+    "url": "https://www.hs.fi/kulttuuri/art-2000012288855.html"
+  },
+  {
+    "date": "2026",
+    "outlet": "Aalto-yliopisto",
+    "type": "Artikkeli",
+    "lang": "fi",
+    "title": "Tekemisen meininkiä",
+    "url": "https://www.aalto.fi/fi/lahjoita-tulevaisuus/tekemisen-meininkia",
+    "image": "images/media/a-tekemisen-meininkia.webp",
+    "focus": "50% 82%"
+  },
+  {
+    "date": "2026-05-08",
+    "outlet": "Länsiväylä",
+    "type": "Kolumni",
+    "lang": "fi",
+    "title": "Otaniemen opiskelijavappuun kuului, että satapäinen joukko siivosi sotkut",
+    "url": "https://www.lansivayla.fi/paakirjoitus-mielipide/9432929"
+  },
+  {
+    "date": "2026-05-01",
+    "outlet": "Yle",
+    "type": "TV",
+    "lang": "fi",
+    "title": "Vappupuhe AYY:n puheenjohtajana",
+    "url": "https://areena.yle.fi/1-77555314",
+    "image": "images/media/yle-vappu-2026.webp",
+    "focus": "50% 35%"
+  },
+  {
+    "date": "2026-04-10",
+    "outlet": "Länsiväylä",
+    "type": "Kolumni",
+    "lang": "fi",
+    "title": "Nuorista kirjoitetaan pari otsikkoa – ja kiirehditään ”tärkeämpiin” aiheisiin",
+    "url": "https://www.lansivayla.fi/paakirjoitus-mielipide/9362354"
+  },
+  {
+    "date": "2026-04-06",
+    "outlet": "Länsiväylä",
+    "type": "Henkilöjuttu",
+    "lang": "fi",
+    "title": "Joona Lipponen, 26, tuli Otaniemeen opiskelemaan, mutta sai paljon enemmän – nyt hän laittaa hyvän kiertämään",
+    "url": "https://www.lansivayla.fi/paikalliset/9349607",
+    "image": "images/media/lansivayla-henkilo-2026.webp",
+    "focus": "50% 50%"
+  },
+  {
+    "date": "2026",
+    "outlet": "Ilta-Sanomat",
+    "type": "Video",
+    "lang": "fi",
+    "title": "Kelan mukaan opintorahalla ei elä – nyt puhuvat opiskelijat",
+    "url": "https://www.is.fi/kotimaa/art-2000012021665.html",
+    "image": "images/media/is-kela-2026.webp",
+    "focus": "50% 72%"
+  },
+  {
+    "date": "2025-01-03",
+    "outlet": "Länsiväylä",
+    "type": "Uutinen",
+    "lang": "fi",
+    "title": "Satoja opiskelija-asuntoja alkaa nousta huippusijainnille Otaniemeen – soluasuntoja jäljellä vain vähän",
+    "url": "https://www.lansivayla.fi/paikalliset/8181695",
+    "image": "images/media/lansivayla-asunnot-2025.webp",
+    "focus": "50% 42%"
+  },
+  {
+    "date": "2024-04-30",
+    "outlet": "MTV Uutiset",
+    "type": "TV",
+    "lang": "fi",
+    "title": "Huomenta Suomi, teekkarivappu",
+    "url": "https://www.mtvuutiset.fi/videot/video/prog20810974",
+    "image": "images/media/mtv-huomenta-suomi.webp",
+    "focus": "40% 40%"
+  }
+]

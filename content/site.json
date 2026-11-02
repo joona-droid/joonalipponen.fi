@@ -1,0 +1,9 @@
+{
+  "languages": [
+    "fi",
+    "sv",
+    "en"
+  ],
+  "defaultLanguage": "fi",
+  "draftMode": false
+}
