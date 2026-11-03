@@ -38,7 +38,6 @@
     "facts": [
       "AYY:n hallituksen puheenjohtaja 2026",
       "27 v, teekkari Otaniemestä",
-      "Puoluepoliittisesti sitoutumaton",
       "Kolumnisti, Länsiväylä",
       "Kiinteistötalouden maisteriopiskelija"
     ],
@@ -59,7 +58,7 @@
     "intro": "SYL tekee paljon hyvää työtä, mutta kentällä se ei aina näy. Ensi vuonna ratkaistaan, päätyvätkö opiskelijoiden tavoitteet hallitusohjelmaan. Siksi haen puheenjohtajaksi.",
     "goals": [
       {
-        "title": "Opiskelijoiden eduskuntavaalitavoitteet saavutetaan yhdessä",
+        "title": "Opiskelijoiden eduskunta­vaali­tavoitteet saavutetaan yhdessä",
         "text": "Ensi vuoden tavoite on selkeä: viedä opiskelijoiden eduskuntavaalitavoitteet hallitusohjelmaan. Se tehdään ratkaisukeskeisellä dialogilla päättäjien kanssa!"
       },
       {
@@ -75,7 +74,9 @@
     "proof": {
       "title": "Esimerkki: asuminen",
       "text": "Opiskelija-asumisen rahoitus koskee jokaista ylioppilaskuntaa. Kun liike puhuu siitä yhdellä äänellä Rovaniemeltä, Jyväskylään ja Lappeenrantaan, se kuullaan eduskunnassa asti."
-    }
+    },
+    "statement": "Visioni on tehdä SYListä **vaikuttava suunnannäyttäjä ja osallistava edunvalvoja**",
+    "goalsIntro": "Vision toteuttamiseksi olen asettanut puheenjohtajavuodelleni kolme tavoitetta."
   },
   "promises": {
     "navLabel": "Lupaukset",
@@ -99,7 +100,7 @@
     "navLabel": "Kuka olen",
     "heading": "Kuka olen",
     "paragraphs": [
-      "Olen Joona, 27, ja toimin tänä vuonna Aalto-yliopiston ylioppilaskunnan AYY:n hallituksen puheenjohtajana. Teen samalla maisteriopintoja kiinteistötaloudesta Aallon urban studies and planning -ohjelmassa. Olen puoluepoliittisesti sitoutumaton.",
+      "Olen Joona, 27, ja toimin tänä vuonna Aalto-yliopiston ylioppilaskunnan AYY:n hallituksen puheenjohtajana. Teen samalla maisteriopintoja kiinteistötaloudesta Aallon urban studies and planning -ohjelmassa. Puoluepoliittisesti sitoutumattomana ehdokkaana haluan edustaa kaikkia opiskelijoita ja saada erilaisista lähtökohdista tulevat ihmiset työskentelemään yhteisten tavoitteiden eteen!",
       "Löysin järjestömaailmaan Otaniemen kautta vuonna 2020: ensin tutorina, sitten killan fuksikapteenina ja Jäynäkilpailun ylituomarina.",
       "Vuonna 2024 AYY:n asumisesta ja taloudesta vastaavana löysin intohimon yhteiskunnalliseen vaikuttamiseen, koska opiskelija-asuminen ratkaisee, kenellä on varaa opiskella.",
       "AYY:ssä olen nähnyt, että vaikuttaminen onnistuu, kun kenttä tietää mitä tehdään ja pääsee mukaan ennen kuin päätökset on tehty. Sitä haluan viedä SYLiin."
@@ -165,23 +166,23 @@
   },
   "results": {
     "navLabel": "Tehtyä",
-    "heading": "Mitä olen saanut aikaan vaikuttamistyössä",
+    "heading": "Mitä olen saanut aikaan vaikuttamis­työssä",
     "items": [
       {
-        "big": "Hallopedit",
+        "big": "Halloped-palkkiot",
         "text": "Toin hallinnon opiskelijaedustajien palkkiot Aallon hallituksen pöydälle. Ne menivät läpi."
       },
       {
-        "big": "Espoo",
-        "text": "Kansainvälisten opiskelijoiden työllisyysseteli etenee kaupungilla selvitykseen."
+        "big": "Kansainvälisten opiskelijoiden työllisyys­seteli",
+        "text": "Kansainvälisten opiskelijoiden työllisyysseteli etenee selvitykseen Espoon kaupungilla."
       },
       {
-        "big": "Trinet",
-        "text": "AYY:n 40 vuotta vanhan opiskelijaverkon alasajon jälkikäsittely ja muutoshallinta. Vaikea muutos, joka vaati äänestyksen ja paljon keskustelua. Yhteisö oli jakautunut ja töitä yhdistämiseen oli tehtävä. Hallitukseni johdolla saimme ilmapiirin yhteen ennen seuraavan lukuvuoden aloitusta."
+        "big": "Trinetin lakkauttamisen muutoshallinta",
+        "text": "Johdin AYY:n 40-vuotiaan opiskelijaverkon alasajon jälkeistä muutoshallintaa. Vaikea päätös johti jäsenäänestykseen ja herätti paljon keskustelua, minkä seurauksena yhteisö jakautui. Hallitukseni johdolla rakensimme luottamusta ja yhtenäisyyttä uudelleen niin, että yhteisö saatiin koottua yhteen ennen seuraavan lukuvuoden alkua."
       },
       {
-        "big": "Kesätyökampanja kesälle 2027",
-        "text": "Rakennamme hallituksen kanssa yhdessä Aallon kanssa nuorten ja opiskelijoiden työllisyyskampanjaa."
+        "big": "Kesätyökampanja Aalto-yliopiston kanssa",
+        "text": "Jäsenkyselyssämme työllistyminen nousi opiskelijoiden suurimmaksi huolenaiheeksi. Nostimme asian esiin yliopiston johdolle, ja nyt rakennamme yhdessä Aallon kanssa yhteiskuntavastuukampanjaa, joka kannustaa yrityksiä tarjoamaan opiskelijoille kesätöitä."
       }
     ]
   },

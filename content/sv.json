@@ -49,7 +49,6 @@
     "facts": [
       "Styrelseordförande för AUS 2026",
       "27 år, teknolog från Otnäs",
-      "Partipolitiskt obunden",
       "Kolumnist, Länsiväylä",
       "Masterstuderande i fastighetsekonomi"
     ],
@@ -70,7 +69,7 @@
     "intro": "FSF gör mycket bra arbete, men det syns inte alltid ute på fältet. Nästa år avgörs det om studenternas mål hamnar i regeringsprogrammet. Därför söker jag ordförandeposten.",
     "goals": [
       {
-        "title": "Studenternas riksdagsvalsmål nås tillsammans",
+        "title": "Studenternas riksdags­valsmål nås tillsammans",
         "text": "Nästa års mål är tydligt: att få in studenternas riksdagsvalsmål i regeringsprogrammet. Det sker genom lösningsorienterad dialog med beslutsfattarna!"
       },
       {
@@ -85,8 +84,10 @@
     "pull": "Grunden är bra. Genomförandet kan skärpas.",
     "proof": {
       "title": "Exempel: boende",
-      "text": "Finansieringen av studentboende berör varje studentkår. När studentrörelsen talar om det med en röst från Rovaniemi till Jyväskylä och Villmanstrand, hörs det ända till riksdagen."
-    }
+      "text": "Finansieringen av studentboende berör varje studentkår. När studentrörelsen, från Rovaniemi till Jyväskylä och Villmanstrand, talar med en och samma röst i frågan, hörs det ända till riksdagen."
+    },
+    "statement": "Min vision är att göra FSF till **en drivande kraft och en inkluderande röst**",
+    "goalsIntro": "För att förverkliga visionen har jag satt upp tre mål för mitt år som ordförande."
   },
   "promises": {
     "navLabel": "Löften",
@@ -110,7 +111,7 @@
     "navLabel": "Vem jag är",
     "heading": "Vem jag är",
     "paragraphs": [
-      "Jag heter Joona, 27, och i år är jag styrelseordförande för Aalto-universitetets studentkår AUS. Samtidigt studerar jag fastighetsekonomi på magisternivå i Aaltos program Urban Studies and Planning. Jag är partipolitiskt obunden.",
+      "Jag heter Joona, 27, och i år är jag styrelseordförande för Aalto-universitetets studentkår AUS. Samtidigt studerar jag fastighetsekonomi på magisternivå i Aaltos program Urban Studies and Planning. Som partipolitiskt obunden kandidat vill jag representera alla studerande och få människor med olika bakgrunder att arbeta för gemensamma mål!",
       "Jag hittade till föreningslivet via Otnäs år 2020: först som tutor, sedan som gillets fuxkapten och som överdomare i Jäynätävlingen.",
       "År 2024, som ansvarig för boende och ekonomi i AUS styrelse, hittade jag min passion för samhällspåverkan, eftersom studentboendet avgör vem som har råd att studera.",
       "På AUS har jag sett att påverkansarbetet lyckas när fältet vet vad som görs och får vara med innan besluten fattas. Det vill jag föra till FSF."
@@ -176,23 +177,23 @@
   },
   "results": {
     "navLabel": "Gjort",
-    "heading": "Vad jag har åstadkommit i påverkansarbetet",
+    "heading": "Vad jag har åstadkommit i påverkans­arbetet",
     "items": [
       {
-        "big": "Studentrepresentanter",
+        "big": "Arvoden för student­representanter",
         "text": "Jag lyfte arvoden för studentrepresentanterna i förvaltningen till Aaltos styrelse. De godkändes."
       },
       {
-        "big": "Esbo",
-        "text": "Sysselsättningssedeln för internationella studerande går vidare till utredning i staden."
+        "big": "Sysselsättnings­sedel för internationella studerande",
+        "text": "Sysselsättningssedeln för internationella studerande går vidare till utredning i Esbo stad."
       },
       {
-        "big": "Trinet",
-        "text": "Efterarbetet och förändringsledningen när AUS 40 år gamla studentnätverk avvecklades. En svår förändring som krävde en omröstning och mycket diskussion. Gemenskapen var splittrad och arbete behövdes för att föra den samman. Under min styrelses ledning fick vi stämningen enad före början av följande läsår."
+        "big": "Förändringsledning efter nedläggningen av Trinet",
+        "text": "Jag ledde förändringsarbetet efter att AUS 40 år gamla studentnätverk avvecklades. Det svåra beslutet ledde till en medlemsomröstning och väckte mycket diskussion, vilket splittrade gemenskapen. Under min styrelses ledning byggde vi upp förtroende och sammanhållning igen, så att gemenskapen kunde enas före början av följande läsår."
       },
       {
-        "big": "Sommarjobbskampanj 2027",
-        "text": "Tillsammans med styrelsen och Aalto bygger vi en sysselsättningskampanj för unga och studerande."
+        "big": "Sommarjobbs­kampanj med Aalto-universitetet",
+        "text": "I vår medlemsenkät var sysselsättningen studerandenas största oro. Vi lyfte frågan till universitetets ledning, och nu bygger vi tillsammans med Aalto en samhällsansvarskampanj som uppmuntrar företag att erbjuda studerande sommarjobb."
       }
     ]
   },
@@ -223,7 +224,7 @@
   },
   "references": {
     "navLabel": "Rekommendationer",
-    "heading": "Rekommendationer",
+    "heading": "Rekommen­dationer",
     "note": "Rekommendationerna är översatta från finska."
   },
   "quotes": {

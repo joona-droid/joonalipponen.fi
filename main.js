@@ -49,6 +49,16 @@
     return el;
   }
 
+  // Teksti, jossa **näin** merkitty osa korostetaan
+  function rich(tag, str, cls) {
+    var el = h(tag, { class: cls });
+    String(str || "").split(/\*\*/).forEach(function (part, i) {
+      if (!part) return;
+      el.appendChild(i % 2 ? h("strong", { text: part }) : document.createTextNode(part));
+    });
+    return el;
+  }
+
   function filled(str) {
     return state.draft || String(str || "").replace(/\[[^\]]*\]/g, "").trim().length > 0;
   }
@@ -181,8 +191,10 @@
         : null;
       return section("visio", "teal", c, [
         h("p", { class: "eyebrow", text: c.eyebrow }),
-        h("h2", { class: "vision__heading", id: "visio-h", text: c.heading }),
+        c.statement ? rich("p", c.statement, "vision__statement") : null,
         txt("p", c.intro, { class: "vision__intro" }),
+        h("h2", { class: "vision__heading", id: "visio-h", text: c.heading }),
+        c.goalsIntro ? txt("p", c.goalsIntro, { class: "vision__goals-intro" }) : null,
         h("ol", { class: "goals" }, (c.goals || []).map(function (g) {
           return h("li", { class: "goal" }, [h("h3", { text: g.title }), txt("p", g.text)]);
         })),

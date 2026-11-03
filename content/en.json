@@ -63,7 +63,6 @@
     "facts": [
       "Chair of the AYY Board 2026",
       "27, teekkari from Otaniemi",
-      "Not affiliated with any party",
       "Columnist, Länsiväylä",
       "Master's student in real estate economics"
     ],
@@ -100,7 +99,9 @@
     "proof": {
       "title": "Example: housing",
       "text": "Funding for student housing affects every student union. When the student movement speaks about it with one voice, from Rovaniemi to Jyväskylä and Lappeenranta, it is heard all the way to Parliament."
-    }
+    },
+    "statement": "My vision for SYL is **impactful direction and collaborative advocacy**",
+    "goalsIntro": "To make this vision happen, I've set three goals for my year as Chair."
   },
   "promises": {
     "navLabel": "Promises",
@@ -124,7 +125,7 @@
     "navLabel": "About me",
     "heading": "About me",
     "paragraphs": [
-      "I'm Joona, 27, and this year I'm Chair of the Board of the Aalto University Student Union AYY. Alongside that, I'm doing my master's in real estate economics in Aalto's Urban Studies and Planning programme. I'm not affiliated with any political party.",
+      "I'm Joona, 27, and this year I'm Chair of the Board of the Aalto University Student Union AYY. Alongside that, I'm doing my master's in real estate economics in Aalto's Urban Studies and Planning programme. As a candidate not affiliated with any political party, I want to represent all students and get people from different backgrounds working towards common goals!",
       "I found my way into student organisations through Otaniemi in 2020: first as a tutor, then as my guild's fuksicaptain and as head judge of the Jäynä competition.",
       "In 2024, as the AYY Board member responsible for housing and finance, I found my passion for societal advocacy, because student housing determines who can afford to study.",
       "At AYY I've seen that advocacy works when the field knows what's being done and gets to take part before decisions are made. That's what I want to bring to SYL."
@@ -193,20 +194,20 @@
     "heading": "What I've achieved in advocacy",
     "items": [
       {
-        "big": "Student reps",
+        "big": "Fees for student representatives",
         "text": "I brought fees for student representatives in university administration to the Aalto Board. They were approved."
       },
       {
-        "big": "Espoo",
-        "text": "The employment voucher for international students is moving forward to a study by the city."
+        "big": "Employment voucher for international students",
+        "text": "The employment voucher for international students is moving forward to a study by the City of Espoo."
       },
       {
-        "big": "Trinet",
-        "text": "Handling the aftermath and change management of shutting down AYY's 40-year-old student network. A difficult change that required a vote and a lot of discussion. The community was divided and work had to be done to bring it together. Under my Board's leadership, we brought the atmosphere together before the start of the next academic year."
+        "big": "Change management after shutting down Trinet",
+        "text": "I led the change management after AYY's 40-year-old student network was shut down. The difficult decision led to a member vote and sparked a lot of discussion, which divided the community. Under my Board's leadership, we rebuilt trust and unity so that the community was brought back together before the start of the next academic year."
       },
       {
-        "big": "Summer job campaign 2027",
-        "text": "Together with my Board and Aalto, we're building an employment campaign for young people and students."
+        "big": "Summer job campaign with Aalto University",
+        "text": "In our member survey, employment came up as students' biggest concern. We raised the issue with the university's leadership, and now we're building a corporate social responsibility campaign together with Aalto that encourages companies to offer students summer jobs."
       }
     ]
   },

@@ -3,9 +3,8 @@
    Obviously Wide nimeen ja vuosilukuihin, Obviously Condensed otsikoihin ja nostoihin,
    Archivo leipätekstiin. */
 
-/* Otsikkofontti Obviously tulee Adobe Fontsista: lisää Adoben <link> index.html-tiedostoon.
-   Siihen asti otsikot näkyvät Archivolla (Google Fonts), jossa on myös ä, ö ja å.
-   Jos Adoben antamat fonttinimet poikkeavat alla olevista, vaihda ne --f-wide- ja --f-cond-muuttujiin. */
+/* Otsikkofontti Obviously tulee Adobe Fontsista (index.html, use.typekit.net/hal3bec.css).
+   Fonttinimet: obviously-wide ja obviously-condensed. Jos Adobe ei lataudu, otsikot näkyvät Archivolla. */
 
 :root {
   /* Kampanjapaletti */
@@ -905,3 +904,41 @@ a.mc:hover { transform: translateY(-3px); box-shadow: 0 10px 24px -14px color-mi
 .refs__note, .media__intro { margin: -0.5rem 0 1.5rem; font-size: var(--step--1); opacity: 0.8; }
 .ref__face { width: 4rem; overflow: hidden; }
 .ref__face img { width: 100%; height: 100%; object-fit: cover; }
+
+/* ---------- Versio 7 (v2): visiolause ja pidemmät tulosotsikot ---------- */
+.vision__statement {
+  font-size: var(--step-2); line-height: 1.25; font-weight: 500;
+  max-width: 30ch; margin: 0.75rem 0 0; color: var(--white);
+}
+.vision__statement strong {
+  display: block; margin-top: 0.35rem;
+  font-family: var(--f-cond); font-weight: 900; font-stretch: 75%;
+  text-transform: uppercase; font-size: var(--step-3); line-height: 0.95;
+  color: var(--cream);
+}
+.vision__intro { margin-bottom: clamp(2rem, 4vw, 3rem); }
+.vision__goals-intro { color: var(--ice); margin: 0.75rem 0 clamp(1.5rem, 3vw, 2.25rem); max-width: 46ch; }
+.result__big { font-size: var(--step-2); line-height: 1; overflow-wrap: normal; hyphens: auto; }
+.results { grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); column-gap: clamp(2rem, 5vw, 4rem); }
+.result__big { max-width: 22ch; }
+/* Pitkät suomenkieliset otsikot eivät katkea kesken sanan kapealla näytöllä */
+.h-section, .vision__heading, .vision__statement strong, .result__big { overflow-wrap: normal; word-break: normal; hyphens: manual; }
+@media (max-width: 420px) {
+  .h-section, .vision__statement strong { font-size: clamp(1.9rem, 9vw, 2.3rem); }
+}
+@media (min-width: 761px) and (max-width: 1100px) {
+  .hero__name { font-size: clamp(2.2rem, 5.6vw, 4.6rem); }
+}
+
+/* ---------- Versio 8: otsikoiden luettavuus ----------
+   Isot kirjaimet ja tiivis condensed-fontti tarvitsevat ilmaa kirjainten väliin.
+   Isot otsikot: Black, kirjainväli +0.02em. Pienemmät väliotsikot: Bold, kirjainväli +0.04em. */
+.h-section, .vision__heading, .vision__statement strong, .result__big, .pull,
+.timeline h3, .promises__h, .mc__thumb--text {
+  letter-spacing: 0.02em; line-height: 1;
+}
+.goal h3, .point h3, .att-item h3, .proof h3, .refs-heading, .brand, .sticker, .site-footer p {
+  font-weight: 700; letter-spacing: 0.04em; line-height: 1.05;
+}
+.hero__name, .band__text { letter-spacing: 0.01em; }
+@media (max-width: 360px) { .h-section { font-size: clamp(1.7rem, 8.4vw, 2.1rem); } }
