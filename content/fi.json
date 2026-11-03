@@ -62,7 +62,7 @@
         "text": "Ensi vuoden tavoite on selkeä: viedä opiskelijoiden eduskuntavaalitavoitteet hallitusohjelmaan. Se tehdään ratkaisukeskeisellä dialogilla päättäjien kanssa!"
       },
       {
-        "title": "Ylioppilaskuntien ääni SYLin toiminnan keskiöön",
+        "title": "Ylioppilas­kuntien ääni SYLin toiminnan keskiöön",
         "text": "Vahvistetaan ylioppilaskuntien mahdollisuuksia osallistua SYLin toiminnan suunnitteluun ja vaikuttamistyöhön. SYL ei saa joutua omaan kuplaansa."
       },
       {
@@ -75,7 +75,7 @@
       "title": "Esimerkki: asuminen",
       "text": "Opiskelija-asumisen rahoitus koskee jokaista ylioppilaskuntaa. Kun liike puhuu siitä yhdellä äänellä Rovaniemeltä, Jyväskylään ja Lappeenrantaan, se kuullaan eduskunnassa asti."
     },
-    "statement": "Visioni on tehdä SYListä **vaikuttava suunnannäyttäjä ja osallistava edunvalvoja**",
+    "statement": "Visioni on tehdä SYListä **vaikuttava suunnan­näyttäjä ja osallistava edunvalvoja**",
     "goalsIntro": "Vision toteuttamiseksi olen asettanut puheenjohtajavuodelleni kolme tavoitetta."
   },
   "promises": {
@@ -288,6 +288,16 @@
         "alt": "Joona laulaa lavalla Jäynäfinaalissa 2025",
         "credit": "Elsa Kattainen",
         "focus": "35% 40%"
+      },
+      {
+        "src": "images/vuosijuhlat-cocktail",
+        "alt": "Joona frakissa vuosijuhlien cocktailtilaisuudessa",
+        "focus": "60% 35%"
+      },
+      {
+        "src": "images/ky115-kuvakoppi",
+        "alt": "Joona ystävineen kuvakopissa KY:n 115-vuotisjuhlilla",
+        "focus": "50% 40%"
       }
     ]
   },

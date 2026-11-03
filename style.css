@@ -932,13 +932,39 @@ a.mc:hover { transform: translateY(-3px); box-shadow: 0 10px 24px -14px color-mi
 
 /* ---------- Versio 8: otsikoiden luettavuus ----------
    Isot kirjaimet ja tiivis condensed-fontti tarvitsevat ilmaa kirjainten väliin.
-   Isot otsikot: Black, kirjainväli +0.02em. Pienemmät väliotsikot: Bold, kirjainväli +0.04em. */
+   Kaikki otsikot pysyvät Obviously Condensed Blackina. Isoissa kirjainväli +0.02em, pienemmissä +0.03em. */
 .h-section, .vision__heading, .vision__statement strong, .result__big, .pull,
 .timeline h3, .promises__h, .mc__thumb--text {
   letter-spacing: 0.02em; line-height: 1;
 }
 .goal h3, .point h3, .att-item h3, .proof h3, .refs-heading, .brand, .sticker, .site-footer p {
-  font-weight: 700; letter-spacing: 0.04em; line-height: 1.05;
+  letter-spacing: 0.03em; line-height: 1.05;
 }
 .hero__name, .band__text { letter-spacing: 0.01em; }
 @media (max-width: 360px) { .h-section { font-size: clamp(1.7rem, 8.4vw, 2.1rem); } }
+
+/* ---------- Versio 9: logo ja leveämmät otsikot ---------- */
+.brand { display: inline-flex; align-items: center; gap: 0.55rem; }
+.brand__img { height: 2.1rem; width: auto; flex: none; }
+@media (max-width: 640px) { .brand__img { height: 1.9rem; } }
+/* Jos pitkä sana ei mahdu riville, se katkeaa ennemmin kuin karkaa näytön reunan yli */
+.h-section, .vision__heading, .vision__statement strong, .result__big, .goal h3, .att-item h3 { overflow-wrap: break-word; }
+@media (min-width: 641px) and (max-width: 1360px) {
+  .site-header__inner { gap: 1rem; }
+  .nav a { padding: 0.4rem 0.5rem; font-size: 0.86rem; }
+}
+/* Tabletilla nimi piiloon, jos logokuva on paikalla (ilman kuvaa nimi näkyy aina) */
+@media (min-width: 641px) and (max-width: 1060px) {
+  .brand__img + .brand__text { display: none; }
+}
+@media (min-width: 641px) {
+  .site-header__inner { max-width: 88rem; }
+  .nav ul { padding-right: 0; gap: 0; }
+}
+/* Kun valikko ei mahdu kokonaan, oikea reuna häivyttyy vierityksen merkiksi (kuten puhelimessa) */
+@media (min-width: 641px) and (max-width: 1240px) {
+  .nav { -webkit-mask-image: linear-gradient(90deg, #000 88%, transparent); mask-image: linear-gradient(90deg, #000 88%, transparent); }
+  .nav ul { padding-right: 2.5rem; margin-left: 0; justify-content: flex-start; }
+}
+/* Asenne-osion väliotsikot: kirjainväli maltillisemmaksi */
+.att-item h3 { letter-spacing: 0.01em; }
